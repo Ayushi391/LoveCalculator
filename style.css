@@ -43,7 +43,7 @@ footer{
     font-weight: bold;
 }
 
-@media (max-width:500px){
+@media (max-width:1028px){
         h1{
             font-size: 60px;
         }
